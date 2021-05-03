@@ -1,0 +1,30 @@
+;;; 
+Export: Release 10.2.0.1.0 - Production on Domingo, 02 Mayo, 2021 18:07:12
+
+Copyright (c) 2003, 2005, Oracle.  All rights reserved.
+;;; 
+Conectado a: Oracle Database 10g Express Edition Release 10.2.0.1.0 - Production
+Iniciando "TSG"."SYS_EXPORT_SCHEMA_01":  tsg/******** directory=tmp_dir dumpfile=tsg/********.dmp logfile=tsg/********.log 
+Estimación en curso mediante el método BLOCKS...
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/TABLE_DATA
+Estimación total mediante el método BLOCKS: 128 KB
+Procesando el tipo de objeto SCHEMA_EXPORT/USER
+Procesando el tipo de objeto SCHEMA_EXPORT/SYSTEM_GRANT
+Procesando el tipo de objeto SCHEMA_EXPORT/ROLE_GRANT
+Procesando el tipo de objeto SCHEMA_EXPORT/DEFAULT_ROLE
+Procesando el tipo de objeto SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA
+Procesando el tipo de objeto SCHEMA_EXPORT/SEQUENCE/SEQUENCE
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/TABLE
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/INDEX/INDEX
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/COMMENT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/TRIGGER
+. . "TSG"."CLIENTES"                            6.789 KB       3 filas exportadas
+. . "TSG"."TARJETAS"                            6.695 KB       3 filas exportadas
+La tabla maestra "TSG"."SYS_EXPORT_SCHEMA_01" se ha cargado/descargado correctamente
+******************************************************************************
+El juego de archivos de volcado para TSG.SYS_EXPORT_SCHEMA_01 es:
+  C:\TEMP\TSG.DMP
+El trabajo "TSG"."SYS_EXPORT_SCHEMA_01" ha terminado correctamente en 18:07:19
